@@ -1,4 +1,6 @@
 # Demo
 This is my first Git Repository
 <br>
-Author - Muhammad Tayyab
+Author
+<br>
+Muhammad Tayyab
